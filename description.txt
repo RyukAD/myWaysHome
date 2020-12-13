@@ -1,0 +1,7 @@
+Description:
+
+I have tried to do the assignment to the best of my knowledge.
+I didn't know the two factor authentication so i have given a simple registration and login with layer 6 security in the DB
+The design you see is not 100% from the mock up and it's because of the time constraint, I tried to do best of my knowledge
+
+Feel free to contact me for any more clarification.

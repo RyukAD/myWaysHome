@@ -1,0 +1,10 @@
+References: 
+
+REACT_BOOTSTRAP: https://react-bootstrap.github.io/getting-started/introduction/
+-Used the documentation to create the nav bar and the jumbotron
+
+https://www.freecodecamp.org/news/how-to-render-modals-in-react-bbe9685e947e/ - Used this link to see how to render modals.
+
+http://www.passportjs.org/docs/ - PassportJS documentation to create the login stuff
+
+Apart from these references i have not used any code snippets or codes from others.
